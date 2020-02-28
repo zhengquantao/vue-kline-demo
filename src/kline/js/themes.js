@@ -62,7 +62,7 @@ export class DarkTheme extends Theme {
         this._colors[Theme.Color.NegativeDark] = "#3b0e08";
 
         this._colors[Theme.Color.Unchanged] = "#fff";
-        this._colors[Theme.Color.Background] = "#161616";
+        this._colors[Theme.Color.Background] = "#161616"; //"#131722"
         this._colors[Theme.Color.Cursor] = "#aaa";
         this._colors[Theme.Color.RangeMark] = "#f9ee30";
         this._colors[Theme.Color.Indicator0] = "#ddd";
