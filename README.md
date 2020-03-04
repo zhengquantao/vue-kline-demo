@@ -1,6 +1,6 @@
 # vue-kline-demo
 
-> A Vue.js project
+> A vue-kline project
 
 ## Build Setup
 
